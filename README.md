@@ -10,7 +10,7 @@ This is a quick and automated onboarding script for Mac development machines tha
    - Navigate into the dos folder for Windows: `cd /dos`
 4. Run the script:
    - Mac: `sh quick-start.sh` 
-   - Windows: `quick-start.ps` (run as administrator)
+   - Windows: `./quick-start.ps` (run as administrator)
 
 ## What's in the box?
 
